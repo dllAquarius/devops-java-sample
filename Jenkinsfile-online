@@ -17,6 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'dllaquarius'
         GITHUB_ACCOUNT = 'dllAquarius'
         APP_NAME = 'devops-java-sample'
+        SONAR_CREDENTIAL_ID = '21b0202735cba324048fa6eb2c49bcc0bc8ceb82'
     }
 
     stages {
